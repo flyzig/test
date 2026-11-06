@@ -1,0 +1,14 @@
+# Secrets / config locale
+wp-config.php
+.env
+
+# Fichiers générés
+wp-content/debug.log
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+
+# Outils / OS
+*.phar
+.DS_Store
+Thumbs.db
