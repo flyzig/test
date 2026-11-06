@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ruleset name="Plugins maison">
+	<description>Règles de style WordPress pour nos plugins.</description>
+	<arg name="extensions" value="php"/>
+	<arg name="colors"/>
+	<arg value="sp"/>
+
+	<rule ref="WordPress"/>
+
+	<config name="minimum_wp_version" value="6.0"/>
+	<config name="testVersion" value="7.4-"/>
+</ruleset>
